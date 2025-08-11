@@ -35,7 +35,7 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-# **About South Shore Women’s Medical Associates**
+# About South Shore Women’s Medical Associates
 
 Founded in 2004, South Shore Women’s Medical Associates is a trusted OB/GYN practice located in Rockville Centre, New York. Led by board-certified physicians Dr. Joan Shari Haselkorn, MD, and Dr. Polina Rachel Kagan, MD, the practice delivers personalized, compassionate care in gynecology and obstetrics to patients at every stage of life.
 
