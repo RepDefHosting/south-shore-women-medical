@@ -59,9 +59,9 @@ discoverConnectExplore: New York
 longBiography_MD: |
   {{long_biography}}
 ---
-## About Dr. Joan Haselkorn
-
 ![](/img/dr.-joan-shari-haselkorn.jpg)
+
+## About Dr. Joan Haselkorn
 
 Dr. Joan Haselkorn is a considerate and competent OB-GYN serving the community of Rockville Centre, NY. Dr. Haselkorn attended the Sackler School of Medicine, NYU in Israel, where she received her medical degree, and completed her residency in Obstetrics and Gynecology at New York University Medical Center, in Manhattan NY. She also holds a bachelor’s degree from the State University of New York, Stony Brook with honors.
 
@@ -72,8 +72,6 @@ Dr. Haselkorn is uncompromising in her dedication to the well-being of her patie
 > [Book Appointment](https://www.zocdoc.com/doctor/joan-haselkorn-md-175298)
 
 ## About Dr. Polina Kagan
-
-![](/img/dr.-polina-rachel-kagan.jpg)
 
 Polina Kagan is a dedicated and mindful OB-GYN serving the community of Rockville Centre, NY. Dr. Kagan attended Louisiana State University School of Medicine in New Orleans, Louisiana, where she received her medical degree, and completed her residency in Obstetrics and Gynecology at Long Island Jewish Medical Center and Nassau County Medical Center. She also holds a Bachelor’s Degrees (BS/BA) from Tulane University, which she completed with Summa Cum Laude in Biology. 
 
