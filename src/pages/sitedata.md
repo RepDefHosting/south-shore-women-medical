@@ -2,7 +2,7 @@
 templateKey: site-data
 published: true
 name: SSWMA
-jobTitle: Women's Medical Associates
+jobTitle: OB-GYN
 location: Rockville Centre, NY
 profileImage:
   src: ""
