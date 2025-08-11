@@ -61,33 +61,25 @@ longBiography_MD: |
 ---
 ## About Dr. Joan Haselkorn
 
-![Dr. Joan Haselkorn](/img/dr.-joan-shari-haselkorn.jpg "Dr. Joan Haselkorn")
+
+
+![Dr. Joan Haselkorn](/img/dr.-joan-shari-haselkorn.jpg)
 
 Dr. Joan Haselkorn is a considerate and competent OB-GYN serving the community of Rockville Centre, NY. Dr. Haselkorn attended the Sackler School of Medicine, NYU in Israel, where she received her medical degree, and completed her residency in Obstetrics and Gynecology at New York University Medical Center, in Manhattan NY. She also holds a bachelor’s degree from the State University of New York, Stony Brook with honors.
 
-
-
 Dr. Haselkorn is a part of South Shore Women's Medical Associates and is affiliated with South Nassau Communities Hospital in Oceanside, LIJ/North Shore Medical Centers in Manhasset, NY. She is board certified by the American Board of Obstetrics and Gynecology and is a member of the Nassau County Medical Society, the New York State Medical Society, and the Nassau Obstetrical and Gynecologic Society. She has been recognized in the Castle Connelly book of Top Doctors since the book's inception. 
-
-
 
 Dr. Haselkorn is uncompromising in her dedication to the well-being of her patients. She is committed to giving the best care and establishing long-lasting relationships with them.
 
 > [Book Appointment](https://www.zocdoc.com/doctor/joan-haselkorn-md-175298)
 
-
-
 ## About Dr. Polina Kagan
 
-![Dr. Polina Kagan](/img/dr.-polina-rachel-kagan.jpg "Dr. Polina Kagan")
+![Dr. Polina Kagan](/img/dr.-polina-rachel-kagan.jpg)
 
 Polina Kagan is a dedicated and mindful OB-GYN serving the community of Rockville Centre, NY. Dr. Kagan attended Louisiana State University School of Medicine in New Orleans, Louisiana, where she received her medical degree, and completed her residency in Obstetrics and Gynecology at Long Island Jewish Medical Center and Nassau County Medical Center. She also holds a Bachelor’s Degrees (BS/BA) from Tulane University, which she completed with Summa Cum Laude in Biology. 
 
-
-
 Dr. Kagan is a part of South Shore Women's Medical Associates and is affiliated with South Nassau Communities Hospital in Oceanside and LIJ Medical Center in New Hyde Park, NY. She is board certified by the American Board of Obstetrics and Gynecology and is a member of the Nassau County Medical Society, the New York State Medical Society, and the Nassau Obstetrical and Gynecologic Society. She is fluent in English and Russian. Her awareness of these different languages makes her accessible to patients from a variety of cultural backgrounds. 
-
-
 
 Dr. Kagan is devoted to ensuring the longevity of her patients’ health and developing long-lasting relationships with them. She takes her time to understand symptoms and give correct diagnoses to ensure the continued health of all her patients.
 
