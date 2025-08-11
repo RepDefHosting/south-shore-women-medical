@@ -49,3 +49,5 @@ South Shore Women’s Medical Associates accepts most major insurance plans, inc
 
 \
 The content on this website is for informational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider with any questions regarding a medical condition. Do not delay seeking care because of something you have read on this website. South Shore Women’s Medical Associates complies with all applicable federal and state privacy laws, including the Health Insurance Portability and Accountability Act (HIPAA). Any personal or health information submitted through this website is kept confidential and handled according to our privacy practices. Submitting information through this site, including appointment request forms, does not establish a physician–patient relationship. For medical emergencies, please call 911 or go to the nearest emergency room.
+
+> [R﻿equest an Appointment ](https://www.zocdoc.com/practice/south-shore-womens-medical-50457)
