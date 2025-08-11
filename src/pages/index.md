@@ -26,8 +26,8 @@ profileButton:
   link: /profile
   label: Our Doctors
 blogButton:
-  link: /blog
-  label: Blog
+  link: https://www.zocdoc.com/practice/south-shore-womens-medical-50457
+  label: Request Appointment 
 shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
