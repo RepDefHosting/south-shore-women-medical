@@ -37,6 +37,10 @@ showRecentPosts: false
 ---
 # About South Shore Women’s Medical Associates
 
+
+
+> [R﻿equest an Appointment ](https://www.zocdoc.com/practice/south-shore-womens-medical-50457)
+
 Founded in 2004, South Shore Women’s Medical Associates is a trusted OB/GYN practice located in Rockville Centre, New York. Led by board-certified physicians Dr. Joan Shari Haselkorn, MD, and Dr. Polina Rachel Kagan, MD, the practice delivers personalized, compassionate care in gynecology and obstetrics to patients at every stage of life.
 
 Serving Rockville Centre and the surrounding Long Island communities, South Shore Women’s Medical Associates offers a full range of OB/GYN services. These include annual well-woman exams, prenatal and postpartum care, contraceptive counseling, and support for urgent gynecologic concerns. Care is available in English, Spanish, and Russian to ensure accessibility for a diverse patient population.
@@ -49,5 +53,3 @@ South Shore Women’s Medical Associates accepts most major insurance plans, inc
 
 \
 The content on this website is for informational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider with any questions regarding a medical condition. Do not delay seeking care because of something you have read on this website. South Shore Women’s Medical Associates complies with all applicable federal and state privacy laws, including the Health Insurance Portability and Accountability Act (HIPAA). Any personal or health information submitted through this website is kept confidential and handled according to our privacy practices. Submitting information through this site, including appointment request forms, does not establish a physician–patient relationship. For medical emergencies, please call 911 or go to the nearest emergency room.
-
-> [R﻿equest an Appointment ](https://www.zocdoc.com/practice/south-shore-womens-medical-50457)
