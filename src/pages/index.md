@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: South Shore Women’s Medical Associates
+pageTitle: SSWMA
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/businessbuildings.jpg
+  src: /img/pexels-rdne-6129507.jpg
   alt: Hero Image for home page
   caption: null
 header: Client Name
