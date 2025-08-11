@@ -1,8 +1,8 @@
 ---
 templateKey: site-data
 published: true
-name: South Shore Women's Medical Associates
-jobTitle: South Shore Women's Medical Associates
+name: SSWMA
+jobTitle: Women's Medical Associates
 location: Rockville Centre, NY
 profileImage:
   src: ""
