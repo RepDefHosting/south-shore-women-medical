@@ -8,7 +8,7 @@ published: true
 schemaType: ProfilePage
 header: SSWMA
 featuredImage:
-  src: /img/businessbuildings.jpg
+  src: /img/pexels-rdne-6129507.jpg
   alt: Hero Image
   caption: null
 connectWithMe: State
