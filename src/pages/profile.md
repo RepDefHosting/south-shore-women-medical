@@ -11,7 +11,7 @@ featuredImage:
   src: /img/pexels-rdne-6129507.jpg
   alt: Hero Image
   caption: null
-connectWithMe: State
+connectWithMe: Rockville Centre
 pageContent: >-
   # Heading line here
 
@@ -55,7 +55,7 @@ subheader: null
 blogButton:
   label: Home
   link: /
-discoverConnectExplore: City
+discoverConnectExplore: New York
 longBiography_MD: |
   {{long_biography}}
 ---
