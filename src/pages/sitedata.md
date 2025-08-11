@@ -1,26 +1,26 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: South Shore Women's Medical Associates
+jobTitle: South Shore Women's Medical Associates
+location: Rockville Centre, NY
 profileImage:
   src: ""
-  alt: Client's headshot
-siteUrl: https://url.com
+  alt: Logo
+siteUrl: https://www.sswma.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
     url: https://www.linkedin.com
     label: Visit
-    show: true
+    show: false
   pinterest:
     url: null
     label: Visit
